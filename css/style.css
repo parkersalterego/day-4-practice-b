@@ -1,0 +1,43 @@
+/*HEIGHTS*/
+
+.xs-height {
+  height:20px;
+}
+
+.sm-height {
+  height:150px;
+}
+
+.md-height {
+  height:200px;
+}
+
+.lg-height{
+  height:540px;
+}
+
+/*COLOR*/
+
+.black {
+  background-color:#000000;
+}
+
+/*SPACING*/
+
+#outer{
+
+  margin-top:50px;
+
+}
+
+.horizontal-gutter{
+
+  margin: 0 30px;
+
+}
+
+.right-margin{
+
+  margin-right:30px;
+
+}
